@@ -1,19 +1,3 @@
-/* 
-   CS222: Assignment 8 - Strassen's matrix multiplication
-
-   Student 1 info:
-   Name :- Manthan Sharma
-   Roll no :- 1906321
-   Branch :- Mathematics and Computer Science
-
-   Student 2 info:
-   Name :- Nishant Kumar
-   Roll no :- 1904123
-   Branch :- Mathematics and Computer Science
-
-   Date of Submission :- 18.04.2021
-
-*/
 // In This code we randomly generate two n*n matrices (size n = 2^k) compare it with n^log7(or 7^k)
 // and output the running time for n, n^log 7, and the ratio of both these values for n
 
