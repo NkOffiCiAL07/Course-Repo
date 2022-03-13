@@ -1,15 +1,3 @@
-/* 
-   Name : Manthan Sharma
-   Roll no. :- 1906321
-   Branch :- MNC
-
-   Name :- Nishant Kumar
-   Roll no :- 1904123
-   Branch :- MNC
-
-   Date of Submission :- 11.03.2021
-*/
-
 #include <iostream> // Including necessary libraries.
 #include <tuple>
 using namespace std;
